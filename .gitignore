@@ -1,0 +1,22 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.env/
+
+# Flask instance folder
+instance/
+
+# Local development files
+*.log
+.DS_Store
+
+# Test files
+test_image.jpg
+
+# Runtime files
+last_result.json
